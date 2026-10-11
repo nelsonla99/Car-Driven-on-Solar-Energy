@@ -1,5 +1,5 @@
 # Car-Driven-on-Solar-Energy
-Created a mini car powered by solar cells
+Created a mini car powered by solar cells. Self driving following markings on the table
 
 
 
